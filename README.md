@@ -10,7 +10,7 @@
 - Programming for 4+ years (Python, C/C++, Java, HDL, JS, SQL)
 - Experience with **Arduino, Raspberry Pi, ESP32, Fusion 360, OpenSCAD, 3D printing, PCB design**  
 - Completed projects ranging from **sorting algorithm visualizers** to a **fully custom computer (Nand2Tetris)**  
-- Hobbies: play piano, table tennis, chess, skiing , and Obviously programming
+- Hobbies: play piano, table tennis, chess, skiing , and obviously programming
 
 ---
 
