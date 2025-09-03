@@ -1,6 +1,6 @@
 # Hi, I'm Soham Rath  
 
-- Student at Gymnasium München Moosach (10th grade, Abitur 2028)  
+- Student at Gymnasium München Moosach (10th grade)  
 - Passionate about **robotics, AI, electronics, and programming**  
 - Always building, learning, and competing in STEM challenges  
 
