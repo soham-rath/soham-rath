@@ -52,8 +52,7 @@
 ## Education & Courses  
 
 - Gymnasium München Moosach – STEM focus, current grad: 1.7  
-- ReDI School of Digital Integration – Python 1, 2, Advanced/Masterclass; HTML & CSS  
-- University of Regensburg – Soldering workshop (2025)  
+- ReDI School of Digital Integration – Python 1, 2, Advanced/Masterclass; Code&Click: HTML & CSS 
 - Coursera (Nand2Tetris) – Built a computer from scratch
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/fcceee8ee57-1f2b-42cf-87f7-3f7ee04c6ce8/responsive-web-design)
 
