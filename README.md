@@ -1,6 +1,6 @@
 # Hi, I'm Soham Rath  
 
-- Student at Gymnasium München Moosach (10th grade)  
+- Student at [Gymnasium München Moosach](https://gym-muc-moosach.musin.de) (10th grade)  
 - Passionate about **robotics, AI, electronics, and programming**  
 - Always building, learning, and competing in STEM challenges  
 
@@ -9,7 +9,7 @@
 ## About Me  
 - Programming for 4+ years
 - Completed projects ranging from **sorting algorithm visualizers** to a **fully custom computer [Nand2Tetris](https://nand2tetris.org)**  
-- Hobbies: play piano, table tennis, chess, skiing , and obviously programming
+- Hobbies: play piano, table tennis, chess, listening to music, skiing , and obviously programming
 
 ---
 
@@ -26,10 +26,10 @@
 - **Micro Mouse – Maze Solver (2024–2025)**  
   Autonomous maze-solving robot with custom PCB, Arduino Nano, H-Bridge, motors, and ultrasonic/ToF sensors.  
 
-- **Build a Computer from First Principles (Nand2Tetris, 2025)**  
+- **Build a Computer from First Principles ([Nand2Tetris](https://nand2tetris.org), 2025)**  
   Designed a working computer from logic gates up to a high-level language & OS.  
 
-- **Rama**  
+- **[Rama](https:soham-rath.github.io/Rama/)**  
   Made a graphical calculator similiar to GeoGebra.
 
 - **Other Projects**  
@@ -50,13 +50,13 @@
 
 ## Education & Courses  
 
-- Gymnasium München Moosach – current grade: 1.7  
-- ReDI School of Digital Integration – Python 1, 2, Advanced/Masterclass; Code&Click: HTML & CSS 
-- Coursera (Nand2Tetris) – Built a computer from scratch
+- [Gymnasium München Moosach](https://gym-muc-moosach.musin.de) – current grade: 1.7  
+- [ReDI School of Digital Integration](https://www.redi-school.org/) – Python 1, 2, Advanced/Masterclass; Code&Click: HTML & CSS 
+- [Coursera (Nand2Tetris)](https://www.coursera.org/learn/build-a-computer?) – Built a computer from scratch
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/fcceee8ee57-1f2b-42cf-87f7-3f7ee04c6ce8/responsive-web-design)
 ### Ongoing:
 -[Ai Course from Harvard University](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
-- [Basic Probability and Statistics from Harvard University](https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up)
+-[Basic Probability and Statistics from Harvard University](https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up)
 
 ---
 
