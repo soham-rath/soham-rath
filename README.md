@@ -33,7 +33,7 @@
   Made a graphical calculator similiar to GeoGebra.
 
 - **Other Projects**  
-  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in Digital Logic Sim by [Sebastian League] (https://GitHub.com/SebLague).  
+  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in Digital Logic Sim by [Sebastian League](https://GitHub.com/SebLague).  
 ---
 
 ## Achievements  
