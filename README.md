@@ -33,16 +33,16 @@
   Made a graphical calculator similiar to GeoGebra.
 
 - **Other Projects**  
-  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in Digital Logic Sim by [Sebastian League] (https://GitHub.com/sebastian-lague).  
+  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in Digital Logic Sim by [Sebastian League] (https://GitHub.com/SebLague).  
 ---
 
 ## Achievements  
 
-- **Jugend forscht** – 1st place + special award (regional), special award (state level)  
+- **Jugend forscht** (for the Micro-Mouse project) - 1st place + special award (regional), special award (state level)  
 - **Mathematics Olympiad** – 3rd place (state level)  
 - **Landeswettbewerb Mathematik** – 2nd prize (regional)  
 - **Pangea-Wettbewerb** – Bundesrunde finalist (4th in Bavaria, 29th in Germany)  
-- **IJSO** – Top 70 in Germany  
+- **IJSO** (International Junior Science Olympiad) – Top 70 in Germany  
 - **Chemie – die stimmt!** – 2nd round  
 - **H₂-Wettbewerb** – 5th place in Bavaria  
 
@@ -54,8 +54,9 @@
 - ReDI School of Digital Integration – Python 1, 2, Advanced/Masterclass; Code&Click: HTML & CSS 
 - Coursera (Nand2Tetris) – Built a computer from scratch
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/fcceee8ee57-1f2b-42cf-87f7-3f7ee04c6ce8/responsive-web-design)
--[Ai Course from Stanford](
-
+### Ongoing:
+-[Ai Course from Harvard University](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home)
+- [Basic Probability and Statistics from Harvard University](https://www.edx.org/learn/probability/harvard-university-fat-chance-probability-from-the-ground-up)
 
 ---
 
