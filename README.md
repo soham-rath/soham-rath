@@ -7,15 +7,14 @@
 ---
 
 ## About Me  
-- Programming for 4+ years (Python, C/C++, Java, HDL, JS, SQL)
-- Experience with **Arduino, Raspberry Pi, ESP32, Fusion 360, OpenSCAD, 3D printing, PCB design**  
-- Completed projects ranging from **sorting algorithm visualizers** to a **fully custom computer (Nand2Tetris)**  
+- Programming for 4+ years
+- Completed projects ranging from **sorting algorithm visualizers** to a **fully custom computer [Nand2Tetris](https://nand2tetris.org)**  
 - Hobbies: play piano, table tennis, chess, skiing , and obviously programming
 
 ---
 
 ## Skills  
-**Languages**: Python, C/C++/C#, Java, SQL, HDL, HTML/CSS/JS  
+**Languages**: Python, C++/C#/(Arduino), Java, SQL, HDL(Hardware Development Language), HTML/CSS/JS  
 **Microcontrollers**: Arduino, ESP32, Raspberry Pi  
 **CAD / 3D Design**: Fusion 360, OpenSCAD, Laser Cutting, 3D Printing
 **Other**: Algorithms (sorting, maze solving, SLAM), PCB design, hardware integration, documentation 
@@ -34,7 +33,7 @@
   Made a graphical calculator similiar to GeoGebra.
 
 - **Other Projects**  
-  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in digital logic.  
+  Voice assistant, Selenium web scraper, Project Euler (30+ problems), Game of Life in Digital Logic Sim by [Sebastian League] (https://GitHub.com/sebastian-lague).  
 ---
 
 ## Achievements  
@@ -51,10 +50,11 @@
 
 ## Education & Courses  
 
-- Gymnasium München Moosach – STEM focus, current grad: 1.7  
+- Gymnasium München Moosach – current grade: 1.7  
 - ReDI School of Digital Integration – Python 1, 2, Advanced/Masterclass; Code&Click: HTML & CSS 
 - Coursera (Nand2Tetris) – Built a computer from scratch
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/fcceee8ee57-1f2b-42cf-87f7-3f7ee04c6ce8/responsive-web-design)
+-[Ai Course from Stanford](
 
 
 ---
